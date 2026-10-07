@@ -704,14 +704,3 @@ Contributions are welcome! Please ensure:
 3. Code follows existing style patterns
 4. Documentation is updated if needed
 
----
-
-## License
-
-[Add your license information here]
-
----
-
-## Support
-
-For issues, questions, or contributions, please contact the maintainers or open an issue in the project repository.
